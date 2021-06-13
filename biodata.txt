@@ -5,7 +5,7 @@
 <body>
 <p style="color:yellow"><font size="20"><marquee behavior="alternate" scrollamount="15">BIODATA</marquee></p>
 <body bgcolor="green">
-<a href="C:\Users\user\Desktop\keje coding\biodata.html"><img src="biodata.png"></a>
+<a href="biodata.html"><img src="biodata.png"></a>
 <a href="C:\Users\user\Desktop\keje coding\education.html"><img src="education.png"></a>
 <a href="C:\Users\user\Desktop\keje coding\experience.html"><img src="experience.png"></a>
 <a href="C:\Users\user\Desktop\keje coding\gellery.html"><img src="gallery.png"></a>
