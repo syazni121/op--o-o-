@@ -17,20 +17,20 @@ p {text-align: center;}
 <a href="C:\Users\user\Desktop\keje coding\games.html"><img src="C:\Users\user\Desktop\keje coding\games.png"></a>
 <a href="C:\Users\user\Desktop\keje coding\index.html"><img src="C:\Users\user\Desktop\keje coding\home page.png"></a>
 <h1><p style="color:orange"><font size="40">CSGO</h1>
-<center><img src="C:\Users\user\Desktop\keje coding\csgo 1.png" alt="" witdh="50%" height="50%"</center>
+<center><img src="csgo 1.png" alt="" witdh="50%" height="50%"</center>
 <br>
 <br>
 <br>
-<center><img src="C:\Users\user\Desktop\keje coding\csgo 2.png" alt="" witdh="50%" height="50%"</center>
+<center><img src="csgo 2.png" alt="" witdh="50%" height="50%"</center>
 <br>
 <br>
 <br>
 <h2><p style="color:orange"><font size="40">FIFA 21</h>
-<center><img src="C:\Users\user\Desktop\keje coding\fifa logo.png" alt="" witdh="50%" height="50%"</center>
+<center><img src="fifa logo.png" alt="" witdh="50%" height="50%"</center>
 <br>
 <br>
 <br>
-<center><img src="C:\Users\user\Desktop\keje coding\fifa celebrate.gif" alt="" witdh="50%" height="50%"</center>
+<center><img src="fifa celebrate.gif" alt="" witdh="50%" height="50%"</center>
 
 </body>
 </html>
